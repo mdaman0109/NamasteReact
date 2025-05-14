@@ -7,7 +7,7 @@
     "react-dom": "^19.1.0"
   },
   "scripts":{
-    "start" : "parcel react.html",
-    "build":"parcel build react.html"
+    "start" : "parcel index.html",
+    "build":"parcel build index.html"
   }
 }
