@@ -12,7 +12,7 @@ const resList =
                       "cuisines": [
                         "Pizzas"
                       ],
-                      "avgRating": 4.3,
+                      "avgRating": 3.3,
                       "parentId": "721",
                       "avgRatingString": "4.3",
                       "totalRatingsString": "1.7K+",
@@ -126,7 +126,7 @@ const resList =
                         "Burgers",
                         "Rolls & Wraps"
                       ],
-                      "avgRating": 4.4,
+                      "avgRating": 3.4,
                       "parentId": "547",
                       "avgRatingString": "4.4",
                       "totalRatingsString": "4.5K+",
@@ -465,7 +465,7 @@ const resList =
                         "Asian",
                         "Beverages"
                       ],
-                      "avgRating": 4.6,
+                      "avgRating": 3.6,
                       "parentId": "1776",
                       "avgRatingString": "4.6",
                       "totalRatingsString": "184",
@@ -887,7 +887,8 @@ const resList =
                       "type": "WEBLINK"
                     },
                     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                  }
+                  },
+                  
                 ];
 
 export default resList;
